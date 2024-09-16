@@ -18,3 +18,7 @@ This tool is heavily inspired from [GIJack](https://github.com/GIJack/BlueRanger
 ```
 make
 ```
+3. Type the following command to run the *BlueNomad.sh* file :
+```
+sudo ./BlueNomad.sh
+```
