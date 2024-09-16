@@ -2,7 +2,7 @@
 A tool which show the strenght and range of Bluetooth devices.
 
 # Credits
-This tool is inspired from [GIJack](https://github.com/GIJack/BlueRanger).
+This tool is heavily inspired from [GIJack](https://github.com/GIJack/BlueRanger).
 
 # Key Features
 - Show Strenght and Link Quality
