@@ -1,4 +1,4 @@
 # Author : WireBits
 
-wifi_view: BlueNomad.sh
+bluenomad: BlueNomad.sh
 		@chmod 700 BlueNomad.sh && sudo ./BlueNomad.sh
